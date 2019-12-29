@@ -36,7 +36,9 @@ const Footer = ()=> {
             <br/>
             <div className="F2">
             Mon - Sat: 9:30am - 6pm / Sun: 11am - 4pm<br/>
-            +44(0)2392 426 388
+            +44(0)2392 426 388 <br/>
+            +234 81 3133 2637 <br/>
+            +234 80 7957 6248
             shop@boredofsouthsea.co.uk
             </div>
             </Col>
@@ -66,7 +68,7 @@ const Footer = ()=> {
        <Row>
        <Col sm={4}>
        <div className="F21">
-       &copy; 2019 Bored of Southsea. Website by Superb.
+       &copy; 2019 Bored of Southsea. Website by Oyelese Timilehin Samuel.
        </div>
        </Col>
        <Col sm={4}></Col>
