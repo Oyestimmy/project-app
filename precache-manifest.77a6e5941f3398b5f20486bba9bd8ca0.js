@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a06defb07d1eec1d7ca10565d80b7b5d",
+    "revision": "bfdec4463cf4c2e88011a17c1f2f7703",
     "url": "/Oyestimmy/project-app.git/index.html"
   },
   {
-    "revision": "8310614e14d9c895d43b",
+    "revision": "e25ac9ebc3db175b5864",
     "url": "/Oyestimmy/project-app.git/static/css/main.3c9f183c.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Oyestimmy/project-app.git/static/js/2.22ebd21d.chunk.js"
   },
   {
-    "revision": "8310614e14d9c895d43b",
-    "url": "/Oyestimmy/project-app.git/static/js/main.a5ed4e0d.chunk.js"
+    "revision": "e25ac9ebc3db175b5864",
+    "url": "/Oyestimmy/project-app.git/static/js/main.2e759e38.chunk.js"
   },
   {
     "revision": "d1a6ca5baac8f98747e4",
